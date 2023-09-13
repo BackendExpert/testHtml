@@ -1,0 +1,19 @@
+.menu{
+    padding: 50px 20px;
+}
+.menu a{
+    padding: 0 20px;
+}
+.home, .contact, .links{
+    height: 100vh;
+    color: white;
+}
+.home{
+    background-color: orange;
+}
+.contact{
+    background-color: greenyellow;
+}
+.links{
+    background-color: red;
+}
