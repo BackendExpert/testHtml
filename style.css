@@ -6,7 +6,8 @@
 }
 .home, .contact, .links{
     height: 100vh;
-    color: white;
+    color: black;
+    font-size: 30px;
 }
 .home{
     background-color: orange;
